@@ -1,6 +1,6 @@
-- I have no idea what i am doing, i'm just going with it.
-- I like Pizza and Games. The only two things you really need in life.
-- I’m currently learning Java from Google. The best free learning software.
+- 
+-
+- 
 - 
 -
 
